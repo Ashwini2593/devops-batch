@@ -1,0 +1,12 @@
+git status
+git init 
+git add (file name)
+git rm --cached (file name)
+git restored (file name)
+git commit -m "adding commands"
+git log 
+git log --oneline 
+git log --oneline --pretty
+git config --global user "ashwini2593"
+git congig --global email "adurge66@gamil.com"
+
